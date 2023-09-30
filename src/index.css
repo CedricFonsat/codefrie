@@ -37,7 +37,7 @@ html, body{
   width: 15em;
   position: absolute;
   rotate: -15deg;
-  bottom: 0;
+  bottom: 5%;
   right: 32%;
 }
 
@@ -45,7 +45,7 @@ html, body{
   width: 15em;
   position: absolute;
   rotate: -15deg;
-  bottom: 0;
+  bottom: 5%;
   right: 15%;
 }
 
