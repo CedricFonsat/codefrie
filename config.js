@@ -1,0 +1,4 @@
+const API_URL = "https://ydxfoozalwpqvawqksog.supabase.co"
+const API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlkeGZvb3phbHdwcXZhd3Frc29nIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTYwMDMyOTUsImV4cCI6MjAxMTU3OTI5NX0.5pcdWkncud6-7aUinO_3VHq0t0hIj_3-FqogqvdGkkE"
+
+export {API_KEY, API_URL}
